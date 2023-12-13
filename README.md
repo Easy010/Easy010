@@ -10,6 +10,6 @@ I'm currently a student of the School of Engineering at AltSchool Africa [School
 - 🌱 I’m currently learning HTML, CSS, and JavaScript.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Frontend Engineer, or UI Engineer (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing adoleezekiel1@gmail.com.
+- 📫 You can contact me by emailing adoleezekiel1@gmail.com.
 
 ---
